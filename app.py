@@ -12,12 +12,12 @@ def hello_world():
 ## create two additional pages
 
 #Page 2
-@app.route('/Campus Location')
+@app.route('/campus_location')
 def campus_location():
     return 'South Hampton!'
 
 #Page 3
-@app.route('/Travel Time')
+@app.route('/travel_time')
 def drive_time():
     return 'Travel Time: Too long!'
 
