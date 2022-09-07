@@ -26,3 +26,14 @@ Deliverable #1: share GitHub repo URL with me
 
 Deliverable #2: inside repo's code, update the readme.md to contain two
 URL links to your flask app deployed on GCP and Azure
+
+
+GCP Link
+http://34.72.205.125
+http://34.72.205.125/campus_location/
+http://34.72.205.125/travel_time/
+
+Azure Link
+http://20.168.106.125
+http://20.168.106.125/campus_location/
+http://20.168.106.125/travel_time/
